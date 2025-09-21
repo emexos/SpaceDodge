@@ -9,6 +9,13 @@ Dodge out falling obstacles with your green spaceship and Survive as long as you
 - Press ESC to return to the menu
 - If you collide with an obstacle, you die and return to the menu
 
+<div>
+  <img src="SCREENSHOTS/active_game.png" width="300" style="margin: 5px;">
+  <img src="SCREENSHOTS/main_menu.png" width="300" style="margin: 5px;">
+  <img src="SCREENSHOTS/you_died.png" width="300" style="margin: 5px;">
+</div>
+
+
 ## Current languages
 - English
 - German
