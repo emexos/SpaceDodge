@@ -1,0 +1,5 @@
+load langs from fs/redos/user/Dodge.red/resources/LANG/
+
+
+from now you cant change languages/font or create new ones
+its just for testing in the newest redos version
